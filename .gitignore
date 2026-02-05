@@ -13,3 +13,4 @@ Carthage/Build/
 *.ipa
 *.dSYM
 *.dSYM.zip
+*.xcuserstate
