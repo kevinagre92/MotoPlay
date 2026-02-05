@@ -1,0 +1,16 @@
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+.swiftpm/
+Package.resolved
+Pods/
+Carthage/Build/
+
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.xcuserstate
